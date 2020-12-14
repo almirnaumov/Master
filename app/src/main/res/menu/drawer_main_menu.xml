@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showln="navigation_view">
     <group android:checkableBehavior="single">
-        <item  android:title="@string/theory"/>
+        <item  android:title="Практика"/>
     </group>
 
 </menu>
